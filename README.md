@@ -26,7 +26,7 @@ If you find the code and datasets useful in your research, please cite:
 
 |  Folder/Files    | Description |
 | ---|---|
-| eval/rank.py | train and evaluate by mean average precision (mAP) |
+| eval/rank.py | evaluation code using mean average precision (mAP) |
 | video*_*meta/vid*_*sel.json | lists of train / test YoutTube IDs for our datasets |
 | video*_*meta/HL*_*labels/ | highlight labels for six domains of videos
 | models/ | pre-trained Ranking SVM models
